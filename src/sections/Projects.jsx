@@ -16,7 +16,7 @@ const projects = [
     {
         title: "Drinking water system",
         description: "A system for monitoring and managing drinking water quality and distribution.",
-        image: "/projects/proyect2.png",
+        image: "./projects/proyect2.png",
         tags: ["Flask", "Firebase", "Python", "Bootstrap", "CSS"],
         link: "#",
         github: "https://github.com/royertgojo-lgtm/royertgojo-lgtm",
@@ -24,7 +24,7 @@ const projects = [
     {
         title: "Mobile application for a parking lot ",
         description: "A mobile application for managing parking lot reservations and payments.",
-        image: "/projects/project3.png",
+        image: "./projects/project3.png",
         tags: ["Flutter", "Firebase", "Dart", "Html", "CSS"],
         link: "#",
         github: "https://github.com/CiclosX/AutoPark_AppMovil.git",
@@ -32,7 +32,7 @@ const projects = [
     {
         title: "Server temperature simulation system",
         description: "A system for simulating and monitoring server temperatures in real-time.",
-        image: "/projects/project4.png",
+        image: "./projects/project4.png",
         tags: ["Flask","Python", "Html", "CSS"],
         link: "#",
         github: "https://github.com/royertgojo-lgtm/action-idgs",
