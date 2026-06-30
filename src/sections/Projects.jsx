@@ -8,7 +8,7 @@ const projects = [
     {
         title: "Fintech Dashboard",
         description: "A comprehensive financial analytics dashboard for real-time data visualization and reporting.",
-        image: "/projects/project1.jpeg",
+        image: "./projects/project1.jpeg",
         tags: ["Flask", "PostgreSQL", "Python", "Html", "CSS"],
         link: "#",
         github: "",
